@@ -25,4 +25,4 @@
  
 # History Of The Game
  
- This can be seen in this link: https://en.wikipedia.org/wiki/Rock_paper_scissors
+ History of the game can be seen in this link: https://en.wikipedia.org/wiki/Rock_paper_scissors
